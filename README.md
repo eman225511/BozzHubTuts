@@ -7,7 +7,7 @@
  - Website link to cashapp clone.
 https://same-qnpfbvnhols-latest.netlify.app/
 ### How to use
-https://streamable.com/29lhuh
+Video: https://streamable.com/29lhuh
 ### How to install app version
 Download This [.mobileconfig](Downloads/Clone-Cash-App-Web-Clip-Profile.mobileconfig) file
-https://streamable.com/w0gusc
+Video: https://streamable.com/w0gusc
