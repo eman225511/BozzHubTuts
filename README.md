@@ -7,4 +7,6 @@
  - Website link to cashapp clone.
 https://same-qnpfbvnhols-latest.netlify.app/
 ### How to use
-![Alt Tag](https://github.com/eman225511/BozzHubTuts/blob/main/vids/copy_D2F892D3-6938-47CF-8D8C-2A5E0C0CAF3E.mov)
+https://streamable.com/29lhuh
+### How to install app version
+https://streamable.com/w0gusc
