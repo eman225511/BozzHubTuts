@@ -1,2 +1,2 @@
 # Bozz Hub Tuts
-## Join The [Discord](https://discord.gg/nxxXrZ37pV)
+## Join The Bozz Hub [Discord](https://discord.gg/nxxXrZ37pV)
