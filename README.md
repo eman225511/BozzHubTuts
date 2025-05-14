@@ -9,4 +9,5 @@ https://same-qnpfbvnhols-latest.netlify.app/
 ### How to use
 https://streamable.com/29lhuh
 ### How to install app version
+Download [This](Downloads/Clone Cash App Web Clip Profile.mobileconfig)
 https://streamable.com/w0gusc
